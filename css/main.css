@@ -170,6 +170,22 @@ PAGE: CONTACT
   background-image: url('../img/twitter.png');
 }
 
+/******************************
+HOME
+******************************/
+
+.post h3 {
+  /*padding-top: 5%;*/
+  /*margin-top: 5%;*/
+  /*background-color: blue;*/
+}
+
+.post {
+  padding-top: 5%;
+  /*background-color: black;*/
+}
+
+
 
 /******************************
 COLORS

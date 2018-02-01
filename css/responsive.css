@@ -46,10 +46,10 @@
   
   nav {
     background: none;
-    float: right;
+    float: left;
     font-size: 1.125em;
-    margin-right: 5%;
-    text-align: right;
+    margin-left: 5%;
+    text-align: left;
     width: 45%;
   }
   
